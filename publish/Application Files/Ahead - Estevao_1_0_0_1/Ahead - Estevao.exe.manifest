@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Ahead - Estevao.exe" version="1.0.0.1" publicKeyToken="41a53142c000173e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Logo Pequena.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ahead - Estevao" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ahead - Estevao.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ahead - Estevao.exe" size="282592">
+      <assemblyIdentity name="Ahead - Estevao" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9GvVheRWAdx8Qgt6S/ghhdVGBfxK1QZfPO68CDfzPIQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="aa\Ahead - Estevao.resources.dll" size="73216">
+      <assemblyIdentity name="Ahead - Estevao.resources" version="1.0.0.0" language="aa" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9oxibdJvVsYymGUBfgcy0un/ngTKSZOAwa5kEGnynWw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Ahead - Estevao.resources.dll" size="74240">
+      <assemblyIdentity name="Ahead - Estevao.resources" version="1.0.0.0" language="pt-BR" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>TAlZkNvKu3eSD5sgtwIzoZGpDpbkJz3Srd3hlUESAsE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="526336">
+      <assemblyIdentity name="Newtonsoft.Json" version="9.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>V14w+Y5OpCyeUW7ci7sprYtQsXOj5rNrW6OeEzzOlAY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Ahead - Estevao.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Logo Pequena.ico" size="4158">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ivHx1DfsEKBvLjOGPNRzCbdfQGJLX37h00NSZGyi498=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-V5ADOL9\estev" issuerKeyHash="35c66f5bf1c0a5581d4fc8d5edfdf69d41910f11" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>IW1mY4ge+rl5lXzOIrYPpuLRvYXhWhONyxeAZOPzcKI=</DigestValue></Reference></SignedInfo><SignatureValue>BGeTvrl1OGTj56Au5GUXSlrWj9/9f3ThXtagenn7f5ih4kKJ4favKeCRKNTsME37LTN0wKrqSvjn1uRj926xzbIdMxcSAdEPGG7q+VhdqcNNskj6Z0ell/PUU+jrc9in6F0vwoxKrnEKCTRouq405xuHGQhqt5uqbGyCmJ1QfnQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tEbIcFdLzDWo51R03nNAAuZcCUzKZzsyzFLbIfhjcVxV17szdKzxhMm6li44V0nTJWmfv9NhSDqEB3Uevr2rnt9cUwu7UR2CKniuR2GbdLEUQK7q3F38UpEk5Sebpyrm/L5l4L/yVfMDOA+TAzJWYWjBzWyYI9OTRFjGF6g7qAU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a270f3e3648017cb8d135ae185bdd1e2a60fb622ce7c9579b9fa1e8863666d21" Description="" Url=""><as:assemblyIdentity name="Ahead - Estevao.exe" version="1.0.0.1" publicKeyToken="41a53142c000173e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-V5ADOL9\estev</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ogaW3CxfjtXDudugREiifLSqjSArbAr9VPxLKC0dvTI=</DigestValue></Reference></SignedInfo><SignatureValue>sR7tYWq2bt7tKSERb3w2lV5NTKGiFUWg2ZWlck+IgZZyZ/GMI2tfpvOvP2GnccYuhTmrNLRiKRkvE3NrbKX8NFn+CXPXCCfzbJZRCRIG/zMTLoh4gYMD+qvHrnkMZLfXg9LVXhPRwh8H91FVkngHb/fNGrMClZrE1Zvq3Hx9DXk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tEbIcFdLzDWo51R03nNAAuZcCUzKZzsyzFLbIfhjcVxV17szdKzxhMm6li44V0nTJWmfv9NhSDqEB3Uevr2rnt9cUwu7UR2CKniuR2GbdLEUQK7q3F38UpEk5Sebpyrm/L5l4L/yVfMDOA+TAzJWYWjBzWyYI9OTRFjGF6g7qAU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQGGeB5mJ/wrxJBHeZzofVejANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYANQBBAEQATwBMADkAXABlAHMAdABlAHYwHhcNMjIwNTMxMDMxNTI5WhcNMjMwNTMxMDkxNTI5WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYANQBBAEQATwBMADkAXABlAHMAdABlAHYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALRGyHBXS8w1qOdUdN5zQALmXAlMymc7MsxS2yH4Y3FcVde7M3Ss8YTJupYuOFdJ0yVpn7/TYUg6hAd1Hr69q57fXFMLu1Edgip4rkdhm3SxFECu6txd/FKRJOUnm6cq5vy+ZeC/8lXzAzgPkwMyVmFowc1smCPTk0RYxheoO6gFAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAF+UV+efVQnowNiuEPnS+fZRMNR0Bw62+N7UenUd9K2flNsYcH4SNOqbNak2UpQKDHjAjMD6eQkpq4x/DB8fnRcjDgtTv0sTmd9JgiHsSb9zyTZ1zNcG6UYGCE7e0CH9idicnDIjcj1JNpRQjWWHkNDHtjBMTzIAT4ZHc24QJBLI=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

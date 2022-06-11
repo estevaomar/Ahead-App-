@@ -1,0 +1,13 @@
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Debug\Ahead - Estevao.exe.config
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Debug\Ahead - Estevao.exe
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Debug\Ahead - Estevao.pdb
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead - Estevao.csproj.AssemblyReference.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead - Estevao.csproj.SuggestedBindingRedirects.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead___Estevao.Properties.Resources.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead - Estevao.csproj.GenerateResource.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead - Estevao.csproj.CoreCompileInputs.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead - Estevao.exe
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead - Estevao.pdb
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead___Estevao.AHEAD.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead___Estevao.Apresentacao.Cadastra_se.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Debug\Ahead___Estevao.Apresentacao.Painel.resources

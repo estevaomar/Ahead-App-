@@ -1,0 +1,37 @@
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Ahead - Estevao.exe.config
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Ahead - Estevao.exe
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Ahead - Estevao.pdb
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.csproj.AssemblyReference.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.csproj.SuggestedBindingRedirects.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.AHEAD.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.Cadastra_se.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.Painel.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Properties.Resources.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.csproj.GenerateResource.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.csproj.CoreCompileInputs.cache
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.exe
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.pdb
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Ahead - Estevao.exe.manifest
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Ahead - Estevao.application
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.exe.manifest
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.application
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Newtonsoft.Json.dll
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\Newtonsoft.Json.xml
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead - Estevao.csproj.CopyComplete
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.Painel.aa.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.Painel.pt-BR.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\aa\Ahead - Estevao.resources.dll
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\pt-BR\Ahead - Estevao.resources.dll
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\aa\Ahead - Estevao.resources.dll
+C:\Users\estev\source\repos\Ahead - Estevao\bin\Release\pt-BR\Ahead - Estevao.resources.dll
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.Calculator.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ.programCorporate.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ.programGames.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ.programMobile.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ.programMoney.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ01.programWEB1.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ02.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ.KnMrCorp.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ01.KnMrWEB.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ01.Android.resources
+C:\Users\estev\source\repos\Ahead - Estevao\obj\Release\Ahead___Estevao.Apresentacao.QUIZ01.iOS.resources
